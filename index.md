@@ -8,28 +8,25 @@ layout: page
 
 Here is **Yiming Guan (管一鸣)**.
 
-I am a senior undergrad majoring in EECS at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
+I obtained a bachelor's degree from the College of Software at Nankai University and am pursuing a master's degree at the College of Computer Science at Nankai University. Currently, I serve as a research internship at AMD, primarily responsible for model quantization acceleration.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *guanyiming0218[at]163.[dot]com*
 
 ## Academic Background
 
-- **Sep 2024 - Future：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Internship)
+- **Jan 2024 - Future:** AMD (Research Internship)
+- **Sep 2023 - June 2026:** Nankai University (MSc, CS)
+- **Sep 2019 - June 2023:** Nankai University (BSc, CS)
 
 ---
 
 ## Research Interests
 
-- Internet of Everything
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
+- Deeplearning System
+- LLM Inference Acceleration
+- Model Quantization Acceleration
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on practical 
 
 ---
 
