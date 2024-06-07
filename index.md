@@ -10,7 +10,7 @@ Here is **Yiming Guan (管一鸣)**.
 
 I obtained a bachelor's degree from the College of Software at Nankai University and am pursuing a master's degree at the College of Computer Science at Nankai University. Currently, I serve as a research internship at AMD, primarily responsible for model quantization acceleration.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *guanyiming0218[at]163.[dot]com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *guanyiming0218@163.com*
 
 ## Academic Background
 
