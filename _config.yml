@@ -1,5 +1,5 @@
 title: Yiming Guan
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+# tagline: Here is personal website of Yiming Guan. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
 url: https://ym-guan.github.io
@@ -10,7 +10,7 @@ owner:
   # avatar: hanlin.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: guanyiming0218@163.com
-  cv: 
+  # cv: 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: 
   github: ym-guan
@@ -40,8 +40,8 @@ links:
     url: /
   # - title: Teams
   #   url: /teams/
-  - title: Publications
-    url: /publications/
+  # - title: Publications
+  #   url: /publications/
   # - title: Awards
   #   url: /awards/
   # - title: Hobbies
