@@ -32,4 +32,5 @@ My current research focuses on LLM Inference Acceleration and Model Quantization
 
 ## News and Updates
 
-- **May 2024：**My undergraduate thesis won the Best Project Award (Top 1/300) 🎉
+- **Jan 2024：**Joined AMD as an algorithm intern, primarily responsible for Model Quantization Acceleration.
+- **Aug 2023：**Joined Xiaohongshu as an intern, primarily responsible for LLM Inference Acceleration and Evaluation.
